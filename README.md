@@ -1,6 +1,6 @@
 # Churn_Analysis_Dashboard
 
-Overview
+##Overview
 
 This project involves the development of a Customer Churn Analysis Dashboard using Power BI, Power Query, and Excel to identify customers at risk of churning. The dashboard provides insights using various KPIs, visualizations, and filters, helping businesses understand customer behavior, churn trends, and risk factors.
 
